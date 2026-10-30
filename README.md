@@ -125,7 +125,7 @@ ls /media               # shared folder mounted (sf_Downloads)
 ![Kali version](screenshots/Screenshots_kali_version)
 ![Static IP on eth0 & Ping tests](screenshots/Screenshots_ip_&_ping)
 ![Ping tests](screenshots/Screenshots_ping_test)
-![Shared folder mounted](screenshots/Screenshots_shared_folder_mounted)
+![Shared folder mounted](screenshots/Screenshots_shared_folder_m)
 
 All pings returned with **0% packet loss**, confirming the static IP, gateway and full internet access.
 
