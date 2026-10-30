@@ -132,7 +132,7 @@ All pings returned with **0% packet loss**, confirming the static IP, gateway an
 ### Step 8: Snapshot
 Took a snapshot of the working VM so I can restore a clean, known-good state at any time.
 
-![Snapshot]
+![Snapshot](screenshot/Screenshots_10-snapshot)
 
 ---
 
